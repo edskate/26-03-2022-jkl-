@@ -3,6 +3,7 @@ let idade = 25;
 let estaAprovado = true;
 let sobrenome = undefined;
 let corSelecionado = null;
+<<<<<<< HEAD
 
 
 let nome = 'ed';
@@ -18,3 +19,5 @@ let pessoa = {
 };
 console.log(pessoa);
 
+=======
+>>>>>>> b1e9dcce9d3d71fe2b9c48eaa8f2511f9105c6e2
