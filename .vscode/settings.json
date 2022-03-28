@@ -1,5 +1,8 @@
 {
               "workbench.colorCustomizations": {
                             "titleBar.activeBackground": "#b1bc93"
-              }
+              },
+              "cSpell.words": [
+                            "reseta"
+              ]
 }
