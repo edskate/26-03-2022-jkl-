@@ -9,3 +9,4 @@ function resetarCor(cor,tonalidade){
 console.log(corSite);
 resetaCor("verde"," claro");
 console.log(corSite);
+eded
